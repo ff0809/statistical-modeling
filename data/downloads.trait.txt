@@ -1,0 +1,270 @@
+Trait_Ontology	Trait_Ontology_ID	Trait_Type	EFO_Ontology	EFO_ID
+Acinar Cell Adenocarcinoma (ACA)	1	cancer	acinar cell carcinoma	EFO:0000216
+Alpha-Fetoprotein therapy	10	phenotype	alpha fetoprotein measurement	EFO:0010583
+IDH Mutation Status	100	gene abnormality	genetic disorder	EFO:0000508
+in vivo MRS (magic angle spinning)	101	phenotype	observational design	EFO:0000629
+Intraveinous Bevacizumab And Interferon Α	102	medical intervention	Therapeutic Procedure	EFO:0010063
+Invasive Ductal Carcinoma (IDC)	103	cancer	invasive breast ductal carcinoma	EFO:0000186
+Ketogenic Diet	104	medical intervention	diet measurement	EFO:0008111
+Ki-67 Expression	105	gene abnormality	genetic disorder	EFO:0000508
+Kidney Cancer	106	cancer	kidney cancer	MONDO:0002367
+Luminal A	107	cancer	breast tumor luminal	EFO:0000306
+Luminal B	108	cancer	breast tumor luminal	EFO:0000306
+Limonene Intervention	109	medical intervention	Therapeutic Procedure	EFO:0010063
+androgen deprivation therapy (ADT)	11	medical intervention	Therapeutic Procedure	EFO:0010063
+Liver Cancer	110	cancer	liver cancer	MONDO:0002691
+Liver Cancer operation	111	medical intervention	surgical resection	EFO:0005842
+Luminal Subtype	112	cancer	breast tumor luminal	EFO:0000306
+Lung Cancer(LC) 	113	cancer	lung cancer	MONDO:0008903
+Lung Cancer(LC) Operation	114	medical intervention	surgical resection	EFO:0005842
+Lung Cancer(LC) with Chronic obstructive pulmonary disease (COPD)	115	phenotype	chronic obstructive pulmonary disease	EFO:0000341
+Lung Cancer(LC) Radiotherapy	116	medical intervention	Therapeutic Procedure	EFO:0010063
+Lung Cancer(LC) Tissues	117	phenotype	sampling site	EFO:0000688
+Lung Cancer(LC) With chronic bronchitis(CB)	118	phenotype	chronic bronchitis	EFO:0006505
+Lung Lump	119	phenotype	localized superficial swelling, mass, or lump	EFO:0010683
+Anemia	12	phenotype	anemia (phenotype)	EFO:0004272
+Lung Metastasis	120	cancer	metastasis	EFO:0009708
+Squamous Cell Carcinoma (SCC)	121	cancer	squamous cell carcinoma	EFO:0000707
+Lung Surgery	122	medical intervention	surgical resection	EFO:0005842
+Lymph Node Metastasis	123	phenotype	metastasis	EFO:0009708
+Malignant Glioma	124	cancer	glioma	EFO:0005543
+Malignant pleural effusion (MPE)	125	phenotype	pleural effusion	EFO:0009637
+Mammographic Breast Density	126	phenotype	mammographic density percentage	EFO:0006502
+Meningiomas Recurrence	127	cancer	disease recurrence	EFO:0004952
+Menopause	128	phenotype	menopause	EFO:0003922
+Metabolic Syndrome	129	phenotype	metabolic syndrome	EFO:0000195
+Astrocytomas Recurrence	13	cancer	disease recurrence	EFO:0004952
+Metabotype	130	phenotype	phenotype	EFO:0000651
+Metastatic Brain Tumors	131	cancer	metastasis	EFO:0009708
+Metastatic Breast Cancer	132	cancer	breast cancer	MONDO:0007254
+Metastatic Colorectal Cancer (CRC)	133	cancer	metastatic colorectal cancer	EFO:1001480
+Metastatic Pancreatic Cancer	134	cancer	metastasis	EFO:0009708
+MWA(microwave ablation)	135	medical intervention	Therapeutic Procedure	EFO:0010063
+Nephrectomy	136	medical intervention	surgical resection	EFO:0005842
+Neutropenia	137	phenotype	neutropenia	MONDO:0001475
+Non-glial meningioma(MNG)	138	cancer	meningioma	MONDO:0016642
+Non-Malignant Females	139	phenotype	benign female reproductive system neoplasm	MONDO:0000624
+Astroglioma (ATSR)	14	cancer	astrocytoma	EFO:0000272
+Non-Metastatic Breast Cancer	140	cancer	breast cancer	MONDO:0007254
+Non‑Metastatic Colorectal Cancer (CRC)	141	cancer	colorectal cancer	EFO:0005842
+Non-Muscle-Invasive Bladder Cancer	142	cancer	bladder tumor	EFO:0000294
+Non-Muscle-Invasive Bladder Cancer Grade	143	cancer	tumor grading	OBI:0600002
+Non–Small Cell Carcinoma	144	cancer	non-small cell lung carcinoma	EFO:0003060
+Non-Small Cell Lung Cancer (NSCLC)	145	cancer	non-small cell lung carcinoma	EFO:0003060
+Non-Small Cell Lung Cancer (NSCLC) Progression	146	cancer	non-small cell lung carcinoma	EFO:0003060
+Non-Small Cell Lung Cancer (NSCLC) Operation	147	medical intervention	surgical resection	EFO:0005842
+Non-Small Cell Lung Cancer (NSCLC) Survival	148	phenotype	overall survival	EFO:0000638
+Oligodendroglioma (OLGD) Grade	149	cancer	tumor grading	OBI:0600002
+Basal And Luminal Muscle Invasive Bladder Cancer Subtypes	15	cancer	bladder tumor	EFO:0000294
+Oligodendroglioma (OLGD) Survival	150	phenotype	overall survival	EFO:0000638
+Oligodendroglioma (OLGD)	151	cancer	oligodendroglioma	EFO:0000632
+Ovarian Benign Tumor	152	phenotype	Benign Ovarian Neoplasm	EFO:1000116
+Ovarian Cancer	153	cancer	ovarian carcinoma	EFO:0001075
+Ovarian Cancer Operation	154	medical intervention	surgical resection	EFO:0005842
+Ovarian Cancer Recurrence	155	cancer	disease recurrence	EFO:0004952
+Palbociclib Treatment	156	medical intervention	Therapeutic Procedure	EFO:0010063
+Pancreas Cancer	157	cancer	pancreatic carcinoma	EFO:0002618
+Pancreatic Cancer	158	cancer	pancreatic carcinoma	EFO:0002618
+Pancreatic Cancer grade	159	cancer	tumor grading	OBI:0600002
+Pemetrexed Chemotherapeuty	160	medical intervention	Therapeutic Procedure	EFO:0010063
+Oral Carbohydrates	161	medical intervention	Therapeutic Procedure	EFO:0010063
+Platinum Chemotherapy	162	medical intervention	platinum measurement	EFO:0010154
+Colorectal Cancer (CRC) chemotherapy	163	medical intervention	Therapeutic Procedure	EFO:0010063
+PR Status	164	cancer	genetic disorder	EFO:0000508
+Pre-Cachectic Colorectal Cancer	165	cancer	colorectal cancer	EFO:0005842
+Primary Central Nervous System Lymphoma	166	cancer	Central Nervous System Lymphoma	EFO:1000157
+Primary Epithelial Ovarian Cancer	167	cancer	ovarian carcinoma	EFO:0001075
+Intraductal Papillary Mucinous Neoplasm(IPMN) progression	168	phenotype	mucinous neoplasm	MONDO:0024338
+Prostate Anatomical Glandular Zones	169	phenotype	sampling site	EFO:0000688
+Prostate Cancer (Pca) 	170	cancer	prostate cancer	MONDO:0008315
+Prostate Cancer (Pca) Bone Metastases	171	cancer	bone metastasis	EFO:0009870
+Prostate Cancer (Pca) Perineural Invasion	172	phenotype	nervous system injury	EFO:0009490
+Prostate Cancer (Pca) Grade	173	cancer	tumor grading	OBI:0600002
+Prostate Cancer (Pca) Stage	174	cancer	disease staging	EFO:0000410
+Prostate Recurrence	175	cancer	disease recurrence	EFO:0004952
+prostatic intraepithelial neoplasia (PIN)	176	phenotype	prostate intraepithelial neoplasia	EFO:0002621
+Qi deficiency (QD)	177	phenotype	traditional Chinese medicine type	EFO:0007637
+Race	178	phenotype	ethnic group	EFO:0001799
+Radiation Therapy	179	medical intervention	Therapeutic Procedure	EFO:0010063
+Benign Lung Nodules	18	phenotype	lung benign neoplasm	MONDO:0002732
+Radical Prostatectomy (rPX)	180	medical intervention	surgical resection	EFO:0005842
+Radiotherapy	181	medical intervention	Therapeutic Procedure	EFO:0010063
+DMT2 mutated Renal Cell Carcinoma (RCC) 	182	gene abnormality	genetic disorder	EFO:0000508
+Rectal Cancer	183	cancer	rectal carcinoma	MONDO:0044937
+Rectal Proctitis	184	phenotype	proctitis	EFO:0005628
+Renal cell carcinoma (RCC)	185	cancer	renal cell carcinoma	EFO:0000681
+Renal cell carcinoma (RCC) Grade	186	cancer	tumor grading	OBI:0600002
+Renal cell carcinoma (RCC) Metastasize	187	cancer	metastasis	EFO:0009708
+Renal cell carcinoma (RCC) Operation	188	medical intervention	surgical resection	EFO:0005842
+Renal Tumor	189	cancer	renal carcinoma	EFO:0002890
+Benign Renal Tumor	19	phenotype	Benign Kidney Neoplasm	EFO:1000111
+Response Status	190	phenotype	Therapeutic Procedure	EFO:0010063
+Neoadjuvant Treatment	191	medical intervention	Therapeutic Procedure	EFO:0010063
+Resveratrol	192	medical intervention	Therapeutic Procedure	EFO:0010063
+Right/Left Colon Cancer	193	cancer	cancer site	EFO:0000312
+Second Primary Lung Cancer (SPLC)	194	cancer	lung cancer	MONDO:0008903
+Secondary Central Nervous System Involvement Of Systemic Lymphoma	195	cancer	nervous system injury	EFO:0009490
+Selenium therapy	196	medical intervention	selenium measurement	EFO:0006331
+Silibinin Therapy	197	medical intervention	Therapeutic Procedure	EFO:0010063
+Single-Lung Ventilation	198	phenotype	maximal voluntary ventilation	EFO:0008431
+Small-Cell Lung Cancer (SCLC)	199	cancer	small cell lung carcinoma	EFO:0000702
+Adenocarcinoma (AC)	2	cancer	adenocarcinoma	EFO:0000228
+Bladder Cancer	20	cancer	bladder tumor	EFO:0000294
+Smoking	200	phenotype	smoking behavior	EFO:0004318
+SPOP-mutation	201	gene abnormality	genetic disorder	EFO:0000508
+Colon Cancer stage	202	cancer	disease staging	EFO:0000410
+Sub-Categories Of Breast Cancer Stage III	203	cancer	disease staging	EFO:0000410
+SULT1A1 genotype study	204	genotype	genotype	EFO:0000513
+SULT1A2 genotype study	205	genotype	genotype	EFO:0000513
+SULT1E1 genotype study	206	genotype	genotype	EFO:0000513
+Temsirolimus And Intraveinous Bevacizumab	207	medical intervention	Therapeutic Procedure	EFO:0010063
+TGFβ role in Pancreatic ductal adenocarcinoma (PDAC) 	208	gene abnormality	genetic disorder	EFO:0000508
+Thrombocytopenia	209	phenotype	Thrombocytopenia	HP:0001873
+Bladder Cancer Grade	21	cancer	tumor grading	OBI:0600002
+Triple Negative	210	cancer	triple-negative breast cancer	EFO:0005537
+Pancreatic Cancer stage	211	cancer	disease staging	EFO:0000410
+Transurethral Resection	212	medical intervention	surgical resection	EFO:0005842
+Treatment Following Laparoscopic Surgery	213	medical intervention	surgical resection	EFO:0005842
+Treatment Response	214	phenotype	Therapeutic Procedure	EFO:0010063
+Lung Cancer(LC)  with emphysema(E)	215	phenotype	emphysema	EFO:0000464
+Urinary Flare	216	phenotype	adverse effect	EFO:0009658
+Pancreatic Cancer Xenograft	217	phenotype	Xenograft	EFO:0003942
+Yin deficiency (YD)	218	phenotype	traditional Chinese medicine type	EFO:0007637
+Prostate Cancer (Pca) sample source	219	phenotype	sampling site	EFO:0000688
+Body Mass Index (BMI)	22	phenotype	body mass index	EFO:0004340
+Acute Lymphoblastic Leukemia	220	cancer	acute lymphoblastic leukemia	EFO:0000220
+Acute Myeloid Leukemia	221	cancer	acute myeloid leukemia	EFO:0000222
+Advanced Stage Melanoma	222	cancer	disease staging	EFO:0000410
+AML Chemotherapy	223	medical intervention	Therapeutic Procedure	EFO:0010063
+AML response	224	medical intervention	Therapeutic Procedure	EFO:0010063
+Anti-Her2 Therapy 	225	medical intervention	Therapeutic Procedure	EFO:0010063
+Barrett’S Esophagus Cancer	226	cancer	Barrett's esophagus	EFO:0000280
+Blast Crisis	227	cancer	Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive	EFO:1000131
+Cervical Cancer Patients Prognosis	228	phenotype	disease prognosis measurement	EFO:0007936
+Cervical Cancer Recurrent 	229	cancer	disease recurrence	disease recurrence
+colorectal cancer (CRC) adverse effects	23	phenotype	adverse effect	EFO:0009658
+Cervical Intraepithelial Neoplasia	230	cancer	cervical intraepithelial neoplasia	MONDO:0022394
+Cervical Squamous Cell Carcinoma	231	cancer	cervical squamous cell carcinoma	EFO:1000172
+Chemotherapy Response	232	phenotype	response to combination chemotherapy	EFO:0007965
+Chronic Lymphocytic Leukemia (CLL)	233	cancer	chronic lymphocytic leukemia	EFO:0000095
+Chronic Myeloid Leukemia	234	cancer	chronic myelogenous leukemia	EFO:0000339
+Colorectal Cancer Treatment	235	medical intervention	Therapeutic Procedure	EFO:0010063
+Concurrent Chemoradiotherapy (CCRT)	236	medical intervention	Therapeutic Procedure	EFO:0010063
+Cutaneous T-Cell Lymphoma	237	cancer	Cutaneous T-cell lymphoma	EFO:0002913
+Diffuse Large B-Cell Lymphoma (DLBCL)	238	cancer	diffuse large B-cell lymphoma	EFO:0000403
+Diffuse Large B-Cell Lymphoma Relapse	239	cancer	disease recurrence	EFO:0004952
+Brain Tumours	24	cancer	brain cancer	MONDO:0001657
+Doxorubicin-Induced Allergy	240	phenotype	drug allergy	EFO:0009482
+Esophageal Cancer	241	cancer	esophageal cancer	MONDO:0007576
+FLT3-ITD/TKD	242	gene abnormality	genetic disorder	EFO:0000508
+Follicular Lymphoma (FL)	243	cancer	follicular lymphoma	follicular lymphoma
+Gender	244	phenotype	sexual and gender identity disorders	MONDO:0000595
+Hodgkin Lymphoma (HL)	245	cancer	Hodgkins lymphoma	EFO:0000183
+Imatinib + Pioglitazone	246	medical intervention	Therapeutic Procedure	EFO:0010063
+Iodine Excess	247	phenotype	phenotype	EFO:0000651
+Luminal B Breast Cancer Response	248	phenotype	Therapeutic Procedure	EFO:0010063
+Lung Cancer Surgical Resection	249	medical intervention	surgical resection	EFO:0005842
+BRCA1 Gene Mutations	25	gene abnormality	BRCA1 mutation carier status	EFO:0011021
+Malignant Melanoma	250	cancer	melanoma	EFO:0000756
+Medullary Thyroid Carcinoma	251	cancer	medullary thyroid gland carcinoma	MONDO:0015277
+Metastatic Papillary Thyroid Carcinoma	252	cancer	metastasis	EFO:0009708
+Multiple Myeloma (MM)	253	cancer	multiple myeloma	EFO:0001378
+Neoadjuvant Chemotherapy response	254	phenotype	response to platinum-based neoadjuvant chemotherapy	EFO:0007943
+Non-Early-Stage Lung Cancer	255	cancer	disease staging	EFO:0000410
+Non-Hodgkin’S Lymphoma	256	cancer	non-Hodgkins lymphoma	EFO:0005952
+Oral Cancer	257	cancer	oral cavity cancer	EFO:0005570
+Oral Cavity Squamous Cell Carcinoma	258	cancer	lip and oral cavity squamous cell carcinoma	MONDO:0044710
+Oral Squamous Cell Carcinoma	259	cancer	oral squamous cell carcinoma	EFO:0000199
+BRCA1-like	26	gene abnormality	BRCA1 mutation carier status	EFO:0011021
+Oral Squamous Cell Carcinoma Operation	260	medical intervention	surgical resection	EFO:0005842
+Extranodal Extension	261	phenotype	phenotype	EFO:0000651
+Papillary Thyroid Microcarcinoma	262	cancer	papillary thyroid carcinoma	EFO:0000641
+Fatigue	263	phenotype	Fatigue	HP:0012378
+PTC (Papillary Thyroid Carcinoma) Men	264	phenotype	sexual and gender identity disorders	MONDO:0000595
+Response to TKI Treatment	265	phenotype	Therapeutic Procedure	EFO:0010063
+RUNX1-RUNX1T1	266	gene abnormality	genetic disorder	EFO:0000508
+Sex	267	phenotype	sexual and gender identity disorders	MONDO:0000595
+Papillary Thyroid Carcinoma Stage	268	phenotype	disease staging	EFO:0000410
+Triple Negative Breast Cancer Response	269	phenotype	Therapeutic Procedure	EFO:0010063
+Breast Cancer	27	cancer	breast cancer	MONDO:0007254
+Papillary Thyroid Cancer	270	cancer	papillary thyroid carcinoma	EFO:0000641
+Thyroid Cancer	271	cancer	thyroid carcinoma	EFO:0002892
+Breast Cancer Death	28	phenotype	death from disease	EFO:0030050
+Breast Cancer Grade	29	cancer	tumor grading	OBI:0600002
+Adjuvant And Metastatic endocrine therapy (ET) Treatment	3	medical intervention	Therapeutic Procedure	EFO:0010063
+Breast Cancer Intervention	30	medical intervention	Therapeutic Procedure	EFO:0010063
+Breast Cancer Operation	31	medical intervention	surgical resection	EFO:0005842
+Neoadjuvant Therapy	32	medical intervention	Therapeutic Procedure	EFO:0010063
+Tamoxifen (Tam) Treatment	33	medical intervention	Therapeutic Procedure	EFO:0010063
+Breast Cancer Recurrence	34	cancer	disease recurrence	EFO:0004952
+Breast Cancer Risk	35	phenotype	breast cancer	MONDO:0007254
+Breast Cancer Stage	36	cancer	disease staging	EFO:0000410
+Cachectic Colorectal Cancer	37	cancer	colorectal cancer	EFO:0005842
+Castration-Resistant Prostate Cancer (CRPC)	38	phenotype	prostate cancer	MONDO:0008315
+Clear Cell Renal Cell Carcinoma (ccRCC) metastasis	39	cancer	metastasis	EFO:0009708
+Advanced Colorectal Cancer (CRC)	4	cancer	colorectal cancer	EFO:0005842
+Chemotherapy	40	medical intervention	Therapeutic Procedure	EFO:0010063
+Child Pugh Score	41	phenotype	measurement	EFO:0001444
+Chromophobe Renal Cell Carcinoma (chRCC)	42	cancer	chromophobe renal cell carcinoma	EFO:0000335
+Clear Cell Renal Cell Carcinoma (ccRCC)	43	cancer	clear cell renal carcinoma	EFO:0000349
+Clear Cell Renal Cell Carcinoma (ccRCC) Stage	44	cancer	disease staging	EFO:0000410
+Colon Cancer	45	cancer	colon carcinoma	EFO:1001950
+Colorectal Cancer (CRC)	46	cancer	colorectal cancer	EFO:0005842
+Colorectal Cancer Sample Source	47	phenotype	sampling site	EFO:0000688
+Dietary Intervention(Freeze-Dried Black Raspberries)	48	medical intervention	surgical resection	EFO:0005842
+Colorectal Cancer (CRC) Operation	49	medical intervention	surgical resection	EFO:0005842
+Advanced Metastatic Breast Cancer	5	cancer	breast cancer	MONDO:0007254
+Colorectal Cancer (CRC) Progression	50	cancer	colorectal cancer	EFO:0005842
+Colorectal Cancer (CRC) Recurrence	51	cancer	disease recurrence	EFO:0004952
+Colorectal Cancer (CRC) stage	52	cancer	disease staging	EFO:0000410
+Colorectal Neoplasia	53	cancer	colorectal cancer	EFO:0005842
+Combination Treatment	54	medical intervention	Therapeutic Procedure	EFO:0010063
+Colorectal Cancer (CRC) lymph node metastasis 	55	cancer	metastasis	EFO:0009708
+Colorectal Cancer (CRC) metastasis 	56	cancer	metastasis	EFO:0009708
+CYP2D6 genotype	57	genotype	genotype	EFO:0000513
+CYP2D6 phenotype	58	phenotype	phenotype	EFO:0000651
+CYP3A4 genotype	59	genotype	genotype	EFO:0000513
+Lung Cancer(LC) Stage	6	cancer	disease staging	EFO:0000410
+CYP3A5 genotype	60	genotype	genotype	EFO:0000513
+Pancreatic ductal adenocarcinoma (PDAC) stage	61	cancer	disease staging	EFO:0000410
+Early Breast Cancer	62	phenotype	breast cancer	MONDO:0007254
+Early Stage Adenocarcinoma (Adc)	63	cancer	disease staging	EFO:0000410
+Early Stage Lung Cancer(LC)	64	cancer	disease staging	EFO:0000410
+Early Stage Non-Small Cell Lung Cancer (NSCLC)	65	cancer	disease staging	EFO:0000410
+Early Stage Squemous Cell Carcinoma (SCC)	66	cancer	disease staging	EFO:0000410
+Early Stage Renal Cell Carcinoma (RCC) 	67	cancer	disease staging	EFO:0000410
+Early Stage Bladder Cancer	68	cancer	disease staging	EFO:0000410
+Early Stage Epithelial Ovarian Cancer	69	cancer	disease staging	EFO:0000410
+Renal Cell Carcinoma (RCC) stage	7	cancer	disease staging	EFO:0000410
+Endocrine Therapy	70	medical intervention	Therapeutic Procedure	EFO:0010063
+Epithelial Ovarian Cancer	71	cancer	ovarian carcinoma	EFO:0001075
+ER Status	72	cancer	genetic disorder	EFO:0000508
+ERG Rearrangement	73	gene abnormality	genetic disorder	EFO:0000508
+ERPR status	74	cancer	genetic disorder	EFO:0000508
+ERPRstatus,Triple Negative	75	cancer	genetic disorder	EFO:0000508
+FASN Expression	76	gene abnormality	genetic disorder	EFO:0000508
+FAVL expression	77	gene abnormality	genetic disorder	EFO:0000508
+Fulvestrant Treatment	78	medical intervention	Therapeutic Procedure	EFO:0010063
+Gemcitabine Treatment	79	medical intervention	Therapeutic Procedure	EFO:0010063
+Non-Small Cell Lung Cancer (NSCLC) stage	8	cancer	disease staging	EFO:0000410
+Geriatric Assessment	80	phenotype	measurement	EFO:0001444
+Gleason Score	81	phenotype	Gleason score measurement	EFO:0007000
+glial tumour(GT)	82	cancer	mixed neuronal-glial tumor	MONDO:0016729
+glioblastoma(GBM)	83	cancer	brain glioblastoma	EFO:0006545
+glioblastoma(GBM) Grade	84	cancer	tumor grading	OBI:0600002
+glioblastoma(GBM) Stage	85	cancer	disease staging	EFO:0000410
+glioblastoma(GBM) Recurrence	86	cancer	disease recurrence	EFO:0004952
+Glioma	87	cancer	glioma	EFO:0005543
+Glutamine Starvation	88	phenotype	glutamine measurement	EFO:0009768
+Hand Foot Syndrome	89	phenotype	Hand-foot syndrome	EFO:1001893
+Aromatase Inhibitors (AI) therapy	9	medical intervention	Therapeutic Procedure	EFO:0010063
+Hematological Toxicity	90	phenotype	hematological toxicity	EFO:0011051
+Hepatocellular Carcinoma	91	cancer	hepatocellular carcinoma	EFO:0000182
+Hepatotoxicity	92	phenotype	hepatotoxicity	EFO:0011052
+Her2 Status	93	cancer	genetic disorder	EFO:0000508
+IP3R expression	94	gene abnormality	genetic disorder	EFO:0000508
+clear cell renal cell carcinoma (ccRCC) grade	95	cancer	tumor grading	OBI:0600002
+High hydrostatic pressure (HHP) treatment	96	medical intervention	Therapeutic Procedure	EFO:0010063
+Ovarian Cancer grade	97	cancer	tumor grading	OBI:0600002
+Hormone Receptor(HR) Status	98	cancer	genetic disorder	EFO:0000508
+Hormone-Sensitive Prostate Cancer (HSPC)	99	phenotype	prostate cancer	MONDO:0008315

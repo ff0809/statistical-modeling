@@ -1,0 +1,254 @@
+[
+  {
+    "path": "分工说明.md",
+    "bytes": 8375,
+    "storage": "git",
+    "sha256": "6f261eb3b7e4f32d53818680d120396f0edcac092f7f04b6e86e46af8ac1f8ff"
+  },
+  {
+    "path": "数据包说明书.md",
+    "bytes": 8705,
+    "storage": "git",
+    "sha256": "fe76afa226fcdb8a6dfae08bb04b76461a4f9688bac7771538d70e691c3fb3e3"
+  },
+  {
+    "path": "code\\chapter3_prediction.py",
+    "bytes": 20508,
+    "storage": "git",
+    "sha256": "5ffd35ce80e720df467859fa906e4a41d7a8261ef1f446bbfa42b3dd6d094f78"
+  },
+  {
+    "path": "code\\chapter4_clustering.py",
+    "bytes": 15134,
+    "storage": "git",
+    "sha256": "a8e573dc5eb4c31e63cad6f2ee318ea9afa3bb4beaef7cfcb1c9e75b0ce9bb24"
+  },
+  {
+    "path": "code\\chapter5_interpretability.py",
+    "bytes": 22944,
+    "storage": "git",
+    "sha256": "46ba2bd754abacc65dc13c24f5f76adff84bfee7262741e41b9e1af2d7aa42ec"
+  },
+  {
+    "path": "code\\hmdb_demo_simple.py",
+    "bytes": 6565,
+    "storage": "git",
+    "sha256": "8e8d87d0ba02f6b20131735d94bc554fe5e054b59d88a809ec914b0845909303"
+  },
+  {
+    "path": "code\\hmdb_reference_query.py",
+    "bytes": 24371,
+    "storage": "git",
+    "sha256": "c285f87ed736cdec24d26956c212ec7e2dab3dd3b352726e86ff0efe9b8e3d91"
+  },
+  {
+    "path": "code\\query_hmdb_for_my_data.py",
+    "bytes": 14121,
+    "storage": "git",
+    "sha256": "cd63325826572e5fe5a1bb24c071eeb2833dc59aa5d5d3c077abc5a6f9676a2c"
+  },
+  {
+    "path": "code\\requirements.txt",
+    "bytes": 257,
+    "storage": "git",
+    "sha256": "b01a90cf4fb53faeeb2fc20cd14451578a6a129862b82221c5302437d060c003"
+  },
+  {
+    "path": "data\\downloads.metabolite.txt",
+    "bytes": 2423114,
+    "storage": "git",
+    "sha256": "483a85e02227071a8f40ac0fd8b4516cf757de4b1762e16eca3727a68ffaed15"
+  },
+  {
+    "path": "data\\downloads.publication.txt",
+    "bytes": 679017,
+    "storage": "git",
+    "sha256": "da4722249a0d81d4c135f20226bc9354c2c1fbfc9a2576bb41f900df08926c2c"
+  },
+  {
+    "path": "data\\downloads.study.txt",
+    "bytes": 485163,
+    "storage": "git",
+    "sha256": "886a010dbb0cae6d3641fb5f5eafd9c2c1e62c91dce86eb489be96bd6f4103c2"
+  },
+  {
+    "path": "data\\downloads.trait.txt",
+    "bytes": 19569,
+    "storage": "git",
+    "sha256": "5b0ebc27cb093e90c99d2905c9c5925ac9d26b405db8fba1e425d6729570faea"
+  },
+  {
+    "path": "results\\chapter3\\bayesian_network_dag.png",
+    "bytes": 443534,
+    "storage": "git",
+    "sha256": "d3d5f875d0f38910ebed26c6fbd991605561dda89e8619b5c5669e0572c779de"
+  },
+  {
+    "path": "results\\chapter3\\bayesian_network_edges.csv",
+    "bytes": 220,
+    "storage": "git",
+    "sha256": "e3ea6d376fd1f5412ce0c6a95ee1515ff9c038ab41c74dce9fac73c575556c94"
+  },
+  {
+    "path": "results\\chapter3\\lr_odds_ratio.csv",
+    "bytes": 60021,
+    "storage": "git",
+    "sha256": "7b002161de52c475b4e374889a24ed25eb4957c83c652e8c20788cfbd083f16e"
+  },
+  {
+    "path": "results\\chapter3\\model_comparison.csv",
+    "bytes": 364,
+    "storage": "git",
+    "sha256": "5eef38bfe2648ce1c8a2ea8feb9616168aa20e114faf96fd222a1ddaef40e613"
+  },
+  {
+    "path": "results\\chapter3\\model_performance_bar.png",
+    "bytes": 90435,
+    "storage": "git",
+    "sha256": "2ec75f1fafd0edfb2aa039d3a2572a67de537eb53998cd8f907aabfc8afbc3aa"
+  },
+  {
+    "path": "results\\chapter3\\rf_feature_importance.csv",
+    "bytes": 31479,
+    "storage": "git",
+    "sha256": "680ad88aefaddcc0a7390d8d4ed3a8d92134f4cb8d2963f21a4cdf3271df82d8"
+  },
+  {
+    "path": "results\\chapter3\\rf_feature_importance_top20.png",
+    "bytes": 88261,
+    "storage": "git",
+    "sha256": "906c183982bd9abcf004c39e4bcf305c02bdd694c41766b858468b4033ae2918"
+  },
+  {
+    "path": "results\\chapter3\\roc_curves.png",
+    "bytes": 136175,
+    "storage": "git",
+    "sha256": "5fc5a470debb2edde3351c93aa57ebeb179b0e4fc8d5d95e9868fc352f4357fc"
+  },
+  {
+    "path": "results\\chapter3\\xgb_feature_importance.csv",
+    "bytes": 22241,
+    "storage": "git",
+    "sha256": "c76ed72aa8b63d3bdad337de72ad6a41d3124fbbe99ed39941c431c78f7af84a"
+  },
+  {
+    "path": "results\\chapter3\\xgb_feature_importance_top20.png",
+    "bytes": 113766,
+    "storage": "git",
+    "sha256": "f1a41be0fa830b596d98a14586cdaa96411d474f93f8d944b651e2bb8e9f896b"
+  },
+  {
+    "path": "results\\chapter3_upgraded\\delong_test_results.csv",
+    "bytes": 218,
+    "storage": "git",
+    "sha256": "6b88aba67f4d7aea81ce029a0043d2a861316c2f959588167f8e8761dc940e96"
+  },
+  {
+    "path": "results\\chapter3_upgraded\\elasticnet_coefficients.csv",
+    "bytes": 40111,
+    "storage": "git",
+    "sha256": "b2e5a628c55e8661e453fd7eb535efcd91f2739e826ec257f887dfc378edaf7f"
+  },
+  {
+    "path": "results\\chapter3_upgraded\\elasticnet_gs_heatmap.png",
+    "bytes": 87351,
+    "storage": "git",
+    "sha256": "f8672656bf7970e9274f63aada2c60ac5627cf8ad90c45f6b9910fb28b2d0e4d"
+  },
+  {
+    "path": "results\\chapter3_upgraded\\elasticnet_regularization_path.png",
+    "bytes": 196564,
+    "storage": "git",
+    "sha256": "7df2d746917ccde29e48006c862b7f8cee64064ee4c1ddfd25b2b92e4822cf00"
+  },
+  {
+    "path": "results\\chapter3_upgraded\\model_comparison.csv",
+    "bytes": 532,
+    "storage": "git",
+    "sha256": "7c18347f3b0db18095fcd7cf1557654545906fb584eceb1b4e79afb8151e9836"
+  },
+  {
+    "path": "results\\chapter3_upgraded\\model_performance_bar.png",
+    "bytes": 104746,
+    "storage": "git",
+    "sha256": "fe390082e1268a2a5a3ab3e5e8fa425afb5c235ef5904d146b2ab834c2da1dec"
+  },
+  {
+    "path": "results\\chapter3_upgraded\\optimal_params.json",
+    "bytes": 767,
+    "storage": "git",
+    "sha256": "834f2c5d6409bd451433abe902600b19e8e5f9fd89a6c5342a73e2527c3882fc"
+  },
+  {
+    "path": "results\\chapter3_upgraded\\rf_feature_importance.csv",
+    "bytes": 31479,
+    "storage": "git",
+    "sha256": "680ad88aefaddcc0a7390d8d4ed3a8d92134f4cb8d2963f21a4cdf3271df82d8"
+  },
+  {
+    "path": "results\\chapter3_upgraded\\rf_feature_importance_top20.png",
+    "bytes": 86690,
+    "storage": "git",
+    "sha256": "0e9acd880f8e6f9d2e7374324128d7465c721efa633cc46190fc6f8a173b08ee"
+  },
+  {
+    "path": "results\\chapter3_upgraded\\roc_curves.png",
+    "bytes": 159157,
+    "storage": "git",
+    "sha256": "efdd5e7f729408558b5262841131e82922f60243ee413aec4199bb8eaa71ff23"
+  },
+  {
+    "path": "results\\chapter3_upgraded\\stacking_roc_comparison.png",
+    "bytes": 146775,
+    "storage": "git",
+    "sha256": "600aac209f326ef97a0c883a0e20986016f4b9d7f0e94ed1b3f7ac7b5ffeb354"
+  },
+  {
+    "path": "results\\chapter3_upgraded\\xgb_feature_importance.csv",
+    "bytes": 22237,
+    "storage": "git",
+    "sha256": "28e83fc7769f08cebe375fabd6507ec0c256f398406c4fde6d94301e2f0da2d8"
+  },
+  {
+    "path": "results\\chapter3_upgraded\\xgb_feature_importance_top20.png",
+    "bytes": 114255,
+    "storage": "git",
+    "sha256": "4c1a9544d189f6d25b5c1c087e2dc4f21c7010a9c5faebeefd56345a22eafb2b"
+  },
+  {
+    "path": "第三章\\3.0",
+    "bytes": 2820,
+    "storage": "git",
+    "sha256": "fc54f61c24f0ba1beb863b88a34a00f26384a9fc6ba3ff0c52cc208bf3513f53"
+  },
+  {
+    "path": "第三章\\chapter3_prediction_upgraded.py",
+    "bytes": 43419,
+    "storage": "git",
+    "sha256": "cac4a0ddfe60f4c3f137c2330c1a509d4711f257a4bb370dfa3548d80276987a"
+  },
+  {
+    "path": "第三章\\delong_test_results.csv",
+    "bytes": 218,
+    "storage": "git",
+    "sha256": "2eeb828ba085d1892f481e505b40b07348b671976d42c5a915d6830b98fb6fc7"
+  },
+  {
+    "path": "第三章\\model_comparison.csv",
+    "bytes": 532,
+    "storage": "git",
+    "sha256": "8d8643b9a820b4c1d4c5d183628359593daf553813feb6b4da5059385fe0869b"
+  },
+  {
+    "path": "第三章\\optimal_params.json",
+    "bytes": 968,
+    "storage": "git",
+    "sha256": "60ba7e0f6f264880068ebbfe3ccf5aa34211ab3691ea622dfc4f9e685ab37c05"
+  },
+  {
+    "path": "第三章\\README.md",
+    "bytes": 5032,
+    "storage": "git",
+    "sha256": "200093d14ca2cbd9404354d9ec2ab16d3c5ba6e33acf92cc169f479680397360"
+  }
+]

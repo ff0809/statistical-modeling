@@ -1,0 +1,35 @@
+{
+  "elasticnet": {
+    "l1_ratio": 0.3,
+    "C": 1.2915496650148828,
+    "penalty": "elasticnet",
+    "solver": "saga",
+    "max_iter": 5000,
+    "n_nonzero_coefs": 422,
+    "best_cv_auc": 0.8089579590370105
+  },
+  "calibrated_rf": {
+    "n_estimators": 200,
+    "class_weight": "balanced_subsample",
+    "max_features": "sqrt",
+    "calibration_method": "sigmoid",
+    "calibration_cv": 5
+  },
+  "xgboost": {
+    "n_estimators": 100,
+    "max_depth": 6,
+    "learning_rate": 0.1,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8
+  },
+  "stacking": {
+    "cv": 5,
+    "meta_learner": "LogisticRegression",
+    "n_base_learners": 3,
+    "base_learners": [
+      "ElasticNet",
+      "Random Forest",
+      "OptunaXGBoost"
+    ]
+  }
+}

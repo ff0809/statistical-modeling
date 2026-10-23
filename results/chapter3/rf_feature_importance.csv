@@ -1,0 +1,1080 @@
+metabolite,rf_importance
+Insulin,0.040155686870969654
+C18:1,0.030245498900733712
+Triglycerides,0.026688874061990022
+Glucuronic acid,0.023063092424044012
+Glycerol,0.022719372096470652
+triglycerides,0.021214542838150618
+Estradiol,0.01795955254174795
+Alanine,0.017183915124122363
+Testosterone,0.01688807219049778
+Citrate,0.01534668195655596
+Isoleucine,0.013955266811708045
+Glutamine,0.013721975232720651
+Ketoglutarate,0.01365634955545035
+N-acetyl-aspartate,0.013232447970609
+Hydroxybutyrate,0.01322283668039048
+Pyruvate,0.012349552800024356
+Taurine,0.011655278442929726
+Malate,0.011592586593398372
+Serine,0.011348726713906559
+Leucine,0.01112347197121439
+Glycine,0.010453398438333684
+Proline,0.01011280535728134
+Estrone,0.010030423967762221
+Oxaloacetate,0.00962943323821876
+Glutamate,0.009582171828824678
+CDCA,0.009153003199335378
+deoxycholic acid,0.009146720459335022
+1-palmitoylglycerophosphoethanolamine,0.009074970045903717
+choline,0.008863724986746199
+Fumarate,0.008431370469506833
+N6-acetyllysine,0.00827540688848467
+threonate,0.00821050614948834
+Arginine,0.007885080487249584
+Cholesterol,0.007808729480751032
+CA,0.0076078992732615215
+Phosphocholine,0.007594989793380007
+Glucose,0.007488203781553292
+Glycochenodeoxycholic acid,0.007404270489319449
+2-OHE1,0.007333926971675602
+myoinositol,0.007038390678220018
+Lactate,0.006872008247180076
+Aspartate,0.006800159407206348
+Estriol,0.006542641944635807
+Valine,0.006150116303270991
+pyrophosphate (PPi),0.006090851819096304
+Methionine,0.0059904479701817104
+oxalate (ethanedioate),0.005929166956242534
+Citrulline,0.0059115371679263696
+Acetylcarnitine,0.005702517479333646
+methyl-4-hydroxybenzoate,0.005701315417716183
+2-hydroxybutyric acid,0.0056535943913464
+Ornithine,0.005609390631773999
+glycerophosphocholine,0.0056063837019744685
+Phenylalanine,0.005264469456857977
+Glycerophosphocholine,0.005176949020139669
+catechol sulfate,0.005096272342775498
+Cinncassiol C3,0.004841516853380418
+ursodeoxycholic acid,0.004768489733683626
+glycolithocholic acid,0.004696735023091302
+Glycodeoxycholic acid,0.004518238956325922
+Succinate,0.004388752855140057
+Tauroursodeoxycholic acid,0.004329213485006526
+phosphocholine,0.004309713464506164
+pantothenate,0.004246656890091989
+Choline,0.004147414871808313
+Urea,0.004064843152973075
+glycodeoxycholate,0.004061416003738394
+Lithocholic acid,0.0039316325574886455
+Malonyl Coenzyme A,0.003794916283060122
+Tyrosine,0.003612884063363268
+Resveratrol-3-O-sulfate,0.003558539279205345
+Glycoursodeoxycholic acid,0.003499875637647583
+Creatinine,0.003495237151682426
+heptanoate (7:0),0.0034729484131147204
+bradykinin,0.003289945170629053
+Chenodeoxycholic acid,0.003268535895083772
+androsterone sulfate,0.003240102796526187
+2-hydroxyhippurate (salicylurate),0.003094184646608134
+L-urobilin,0.003037831555316932
+Histidine,0.003034517556750914
+Resveratrol sulfate glucuronide,0.0030319635971023597
+Taurochenodeoxycholic acid,0.003027132120404854
+2-ethylhexanoate,0.0029887549412298806
+"N2,N2-dimethylguanosine",0.0029842601772668326
+Pyroglutamic acid,0.0029035054039446727
+carnitine,0.0028879842926617886
+Cystine,0.00284548251821907
+pelargonate (9:0),0.002840582169859993
+Creatine,0.0028257388764486215
+caprylate (8:0),0.0028189660078360586
+4-methyl-2-oxopentanoate,0.0028161846909271118
+tartarate,0.002799888806971319
+Resveratrol,0.002797196402321433
+Adipic acid,0.0026958152257731344
+Acetate,0.0026763373396067784
+Threonine,0.0026741627859941386
+Acetone,0.0026467831971087263
+2-methoxyacetaminophen sulfate,0.002622905596137122
+3-Methylxanthine,0.0025885960927095612
+4-acetamidophenol,0.0025789542173439016
+cadaverine,0.0025614067908411404
+Lysine,0.0025604596426973543
+Resveratrol-4′-O-glucuronide,0.002531311660884458
+3-methyl-2-oxovalerate,0.00252038637394219
+1-linoleoylglycerophosphoethanolamine,0.0024498588554531914
+N1-methyladenosine,0.0024266862366784893
+TMAO,0.0024214167477871833
+Isocitric acid,0.00241047124053456
+5-oxoproline,0.002407551391571115
+Aminomalonic acid,0.0023324078874111033
+Propionate,0.0023151681586627156
+beta-alanine,0.0022741089298950017
+guanosine,0.00223074223074223
+Cholic acid,0.002132115214480451
+lactate,0.0021237520842557526
+Trimethylamine,0.0020659706863275238
+7-alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca),0.0020567951318458426
+spermidine,0.002009178737184464
+acetate,0.001947468740010237
+lysine,0.0019429275992047465
+Spermine,0.0019326146525306292
+N-Acetylglycine,0.001890895491277759
+spermine,0.0018875680515780865
+Oleic acid,0.00187291543704923
+Glycocholic acid,0.001867775318275321
+3-methyl-2-oxobutyrate,0.0018491704658964076
+undecanoate (11:0),0.0018187494218851173
+Methanol,0.0018084053851305042
+glycerate,0.001805788308832368
+1-myristoylglycerophosphocholine,0.0017130829015544024
+N-acetylneuraminate,0.0016620247379095588
+Methylguanidine,0.0016565571611281684
+taurocholate,0.0016171063499501972
+Dimethylglycine,0.0015999533733316706
+Citric acid,0.0015607076971190666
+4-hydroxyphenylacetate,0.0015606429697311952
+mannose,0.0015485823217158492
+"1,3-diaminopropane",0.001540417258988002
+stearidonate (18:4n3),0.0014756073077695246
+Aspartic acid,0.0014722607171617158
+octanoylcarnitine,0.0014710255655870732
+TAG47:1-FA18:1,0.0014708917052864833
+trans-urocanate,0.0014618908788005002
+TAG53:1-FA18:0,0.0014282644573974854
+"9,12-Octadecadienoic acid",0.0014099710389265268
+1-arachidonoylglycerophosphoinositol,0.001402759754732494
+methylphosphate,0.0014019226367589844
+Malonyl coenzyme A,0.0013969715624989893
+1-stearoylglycerophosphocholine,0.0013940092165898616
+2-hydroxyoctanoate,0.0013940092165898616
+biliverdin,0.0013913019355680195
+Uric acid,0.0013851041594087946
+1-palmitoylglycerol (1-monopalmitin),0.0013844573962409432
+3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF),0.0013747143945163757
+Ethanolamine,0.0013671133367589901
+C-glycosyltryptophan,0.0013312879776896005
+Tryptophan,0.0013301846027044325
+Pyruvic acid,0.001304790813946416
+thymol,0.0012662356273268557
+Formate,0.0012534549465272546
+?-Hydroxyisobutyric acid,0.0012518536279368915
+2-palmitoylglycerophosphocholine,0.0012354983772141907
+4-acetaminophen sulfate,0.0012250290957834295
+Inosine,0.0012244248751053157
+phenyllactate (PLA),0.001215615318876191
+Asparagine,0.0012092136509201108
+caprate (10:0),0.0012034204252151812
+1-palmitoylglycerophosphoinositol,0.0011902247801741227
+Oxalic acid,0.0011648301036549585
+Symmetric dimethylarginine,0.0011543192834923858
+"2,3,4-Trihydroxybutyric acid",0.0011486928716188734
+serotonin (5HT),0.0011401796528287453
+Lactic acid,0.0011144396028491396
+Dimethyl sulfone,0.0011060800154522575
+3-Hydroxybutyric acid,0.0010951916987636502
+tetradecanedioate,0.0010942743249784223
+3-(3-hydroxyphenyl)propionate,0.0010648464163822541
+succinic acid,0.0010477325332461011
+ethanolamine,0.0010454683225244843
+N-acetylornithine,0.0010403347724504614
+cis-4-decenoyl carnitine,0.0010312164317567776
+Caprylic acid,0.0010270125200450362
+Glycerophospho-N-arachidonoyl ethanolamine,0.0010132286320065748
+PC(16:0/22:6),0.0010126178906968075
+2-Oxoisocaproate,0.0009939753422747728
+"palmitate, methyl ester",0.0009925151690563599
+Linoleic acid,0.000988143096164616
+2-methoxyacetaminophen glucuronide,0.0009858398143839737
+Sphingosine,0.0009856544669305995
+γ-aminobutyric acid,0.0009723968454375086
+"1,3,7-trimethylurate",0.0009714293330253107
+lactic acid,0.0009640008211788308
+Fumaric acid,0.0009612793580268437
+Cinnzeylanine,0.0009579589643673378
+Asymmetric dimethylarginine,0.0009438657295157901
+aKG,0.0009257497547870773
+Arachidonic acid,0.0009137608062260775
+pregnenolone sulfate,0.0009076399978408989
+fumaric acid,0.0008981812589215863
+ascorbate (Vitamin C),0.0008937765887021168
+Hypoxanthine,0.0008821859990571775
+AMP,0.0008786432160626477
+Ascorbate,0.0008749627304181194
+Tyr,0.0008729974718287132
+metoprolol acid,0.0008629786734848941
+Propionic acid,0.0008415499619185271
+Ethanolamine phosphate,0.0008410520796924153
+Spermidine,0.0008405399460076375
+1-palmitoylglycerophosphocholine,0.0008274384833737803
+PC(18:1/22:6),0.0008257805097429938
+Dimethylamine,0.0007910401499174745
+Phosphorylcholine,0.0007767026018649311
+Isovaleric acid,0.0007765677653758216
+Isopropanol,0.0007669862854079736
+τ-Methylhistidine,0.0007515244353793689
+17-methylstearate,0.0007387940966702123
+3-Hydroxyisovaleric acid,0.0007361800886964448
+maleimide,0.0006981639882974739
+PC(16:0/16:1),0.0006931009333551017
+proline,0.0006832595020995822
+Xanthine,0.000674308945816098
+FFA(20:5),0.0006729102787829984
+CE(22:2),0.0006719495563979728
+Capric acid,0.0006710609581267695
+Dodecanoylcarnitine,0.000652716793307234
+Cysteine,0.0006491833913614939
+Hippuric acid,0.0006446403935456058
+tryptophan,0.000639504231818275
+PC(18:2/18:2),0.0006307515618926579
+TAG56:6-FA20:3,0.0006296092040663108
+2-Hydroxyisovaleric acid,0.000624110614375899
+Trp,0.0006083053515426133
+Carnitine,0.0006064317748819182
+nonadecanoate (19:0),0.0006049466480841753
+TAG46:1-FA16:0,0.000598964625877373
+Glycolic acid,0.000591193700678274
+Glutathione,0.0005801590999570804
+Formic acid,0.0005686722518405713
+TAG57:3-FA18:2,0.0005665143508820136
+pro-hydroxy-pro,0.0005641124654434615
+Ethanol,0.0005576074700217235
+PC(16:0/14:0),0.0005517056199554594
+Ser,0.0005359125255534694
+Isocaproic acid,0.0005297485253181141
+histidine,0.000527679960055795
+2-Oxoglutaric acid,0.0005264237720590325
+phenylalanine,0.0005227379546148514
+TAG55:3-FA18:1,0.0005185582435786976
+decanoylcarnitine,0.0005146050183915896
+Malic acid,0.0005072581464248155
+LPC(22:6),0.000501508563501247
+atenolol,0.000499980700506146
+2-Aminobutanoic acid,0.0004996987140441692
+LCER(16:0),0.0004953581877479611
+TAG44:1-FA18:1,0.0004933762508516082
+?-Linolenic acid,0.0004891777761552429
+serine,0.0004868963364282247
+PC(18:0/22:6),0.0004809924774486541
+Lys,0.00047122629054296517
+L-Alanine,0.00046609916316820934
+3-hydroxybutyrate,0.00046605295736156416
+asparagine,0.00045816284059349186
+Glutamic acid,0.000443499319819716
+cortisone,0.0004416143191907727
+LPE(16:0),0.00043797466651283537
+arabitol,0.00042454776506355943
+Thr,0.0004183607276431707
+acetylphosphate,0.0003953777163234801
+taurine,0.0003930027303538455
+"5alpha-androstan-3beta,17beta-diol disulfate",0.0003928508792908256
+Prasterone sulfate,0.0003746881470456416
+TAG57:2-FA18:1,0.00037432282478653563
+Diethanolamine,0.00037096468867826567
+Acetoacetate,0.0003666087374967211
+Gln,0.0003646018480961119
+Arg,0.00035907756491392794
+caffeine,0.0003560122989160499
+Succinic acid,0.00035476212449064924
+trans-4-hydroxyproline,0.0003524936845079786
+Unknown hexopyranose,0.0003510738464619465
+3-methylhistidine,0.0003470358831126557
+D-Mannose,0.00034320518963142885
+Acetylcholine,0.0003394260839431343
+FFA(20:4),0.0003362692527799231
+alanine,0.0003342963749497529
+fructose,0.0003339619523459795
+TAG44:1-FA14:0,0.00033338005219147427
+CER(16:0),0.0003324916652757735
+acetylcarnitine,0.0003315312624784879
+threonine,0.00032930337841519103
+DSGEGDFXAEGGGVR,0.0003142502161190079
+citrate,0.00031364922869596613
+Asp,0.00031340110462624
+1-methylurate,0.00031020367402805857
+cysteine,0.0003097136213896765
+TAG44:0-FA16:0,0.00030708711443647006
+sucrose,0.0003064369062096941
+1-arachidonoylglycerophosphoethanolamine,0.0003053100152258499
+TAG58:9-FA22:6,0.00030491038789587816
+phenol sulfate,0.0003006686545585981
+DCER(24:0),0.00029558367324082987
+Pro,0.00029514485132146255
+paraxanthine,0.0002918730761370444
+DAG(18:2/22:6),0.0002904028586421755
+LPE(16:1),0.0002720410140283591
+glycerol,0.00026824842066881983
+N6-carbamoylthreonyladenosine,0.0002656758182869205
+glycine,0.00026416569056647815
+tyrosine,0.00026273803159376395
+Met,0.00025966963012045584
+L-Proline,0.00025834152821669563
+Glu,0.000257640132258408
+Kynurenine,0.0002547378555000814
+TAG56:4-FA18:1,0.0002508517787480894
+creatinine,0.00024714741609289313
+Gluconolactone,0.00024685354525968506
+His,0.00024240750343538988
+TAG48:1-FA14:0,0.00024210084845133388
+TAG46:2-FA16:0,0.00024181949994936912
+arabinose,0.00024115931977876403
+glucose,0.00023957645164860504
+Scyllo-inositol,0.00023898112657645107
+Trimethylamine N-oxide,0.00023881517472657375
+pyridoxate,0.00023875878478112373
+cis-Aconitate,0.0002372354056272163
+2-Aminoisobutyric acid,0.00023600326930935838
+inosine,0.00023287155231125177
+Betaine,0.00023015210458313676
+TAG58:10-FA22:6,0.0002295047716215612
+Benzoic acid,0.0002277236259074589
+2-Hydroxybutyric acid,0.00022664280606284913
+TAG54:6-FA18:3,0.00022651447371789448
+PC(17:0/22:6),0.00022454251975680893
+"1,6-anhydroglucose",0.00022157108015166498
+TAG48:1-FA18:0,0.0002157192668682681
+TAG50:0-FA16:0,0.00021521904667423972
+3-Methyl-2-oxovaleric acid,0.00021247517253706284
+valine,0.00021003261349529512
+Lauric acid,0.00020712416964493538
+Glyceric acid,0.00020360716512155244
+PE(O-16:0/22:6),0.00019950007880796268
+beta-sitosterol,0.00019938751621708035
+Pyroglutamate,0.0001972828827601612
+PE(16:0/16:1),0.00019578093523224226
+pyruvate,0.00019561257720832848
+"1,7-dimethylurate",0.00019302548686616884
+nicotinamide,0.00019288690935549915
+Asn,0.00019091276705180606
+Ala,0.000189603273866463
+TAG58:9-FA18:2,0.00018926703155178824
+salicyluric glucuronide,0.00018838078396222097
+Uridine,0.00018832673465234736
+Acetoacetic acid,0.00018771331058020473
+TAG58:10-FA18:2,0.00018323322290233403
+TAG46:0-FA14:0,0.00018305693351804722
+FFA(18:2),0.0001818533261999244
+TAG55:2-FA18:2,0.00018002944526164
+Gly,0.00017672756793526734
+N-acetylalanine,0.00017597084209289415
+"1,3-dipalmitoylglycerol",0.0001758045025309721
+stachydrine,0.00017560823331291768
+TAG49:1-FA18:1,0.00017520259091362847
+TAG50:0-FA18:0,0.00017356734597097237
+Ile,0.00016745925416230504
+ibuprofen acyl glucuronide,0.0001655362538218839
+3-Hydroxybutyrate,0.00016422288286177587
+Sulfotyrosine,0.0001624655376132336
+theophylline,0.00016185130129970932
+acetoacetate,0.0001617656149939595
+N-methyl proline,0.00016079640612809182
+DCER(16:0),0.00015589122559058797
+glutamic acid,0.0001502709004918867
+octadecanol,0.00014835852580501337
+TAG46:2-FA16:1,0.00014310286654157465
+"5,6-dihydrouracil",0.0001426874827045479
+methionine,0.0001424626297878167
+L-Isoleucine,0.00014065542586957577
+acisoga,0.00014014491945581485
+Acetic acid,0.00013987192104759444
+ornithine,0.00013716297553078346
+Adenosine,0.00013667283677959213
+"bilirubin (Z,Z)",0.0001361090023779791
+LPC(18:1),0.00012977508258053567
+TAG48:2-FA18:1,0.00012918845066273616
+PE(P-18:0/18:1),0.00012629830084573347
+TAG46:2-FA14:0,0.00012590923700045518
+Phe,0.00012572947929239949
+glycerophosphorylcholine (GPC),0.0001252082559223729
+CER(24:1),0.00012424340197556702
+isoleucine,0.00012204346509053161
+pyrophosphate,0.00012137782932463711
+Xanthosine,0.00011875402179321343
+3-aminoisobutyric acid,0.0001179643686454036
+myo-Inositol,0.00011604752673708644
+TAG42:0-FA16:0,0.00011209343614695967
+TAG46:3-FA14:1,0.00011159738214378632
+Leu,0.00011000792749114517
+Decanoylcarnitine,0.00010986744867142984
+levoglucosan,0.00010743186490513451
+L-Valine,0.00010734485118714119
+3-Hydroxyisovalerate,0.00010707303514968108
+TAG48:1-FA14:1,0.0001061170589067577
+SM(44:2),0.00010579920967418414
+TAG46:3-FA12:0,0.0001044446501200626
+SM(36:1),0.00010142490032527745
+LPE(22:6),0.00010096128631047226
+TG(48:2),9.807667737811119e-05
+Guanosine,9.620514205823595e-05
+palmitoleic acid,9.583721226651799e-05
+Sarcosine,9.506498328055486e-05
+ribose,9.480904588112536e-05
+TAG46:1-FA14:0,9.39501304554074e-05
+TAG50:4-FA20:3,9.362436680537408e-05
+TAG48:0-FA14:0,9.305693592382568e-05
+TAG58:9-FA18:1,9.114641280470388e-05
+Putrescine,9.053148382219648e-05
+TAG49:1-FA14:0,8.95537389439829e-05
+beta-hydroxyisovalerate,8.908868984628051e-05
+TAG49:1-FA16:0,8.82371206709431e-05
+TAG56:8-FA22:6,8.722852588538703e-05
+SM(36:2),8.563335360146661e-05
+threitol,8.25596316425132e-05
+1-monostearin,8.088615371762854e-05
+Adenine,8.081500432557004e-05
+TAG47:1-FA16:0,7.973321418488496e-05
+inositol 1-phosphate (I1P),7.833709284144622e-05
+TAG58:7-FA22:6,7.735916819633001e-05
+Hippurate,7.696883142502919e-05
+DAG(16:0/16:1),7.562624888297697e-05
+TG(50:2),7.442563888010963e-05
+Guanine,7.405484139224314e-05
+LPC (16:0),7.390819435953474e-05
+heme,7.336870683252122e-05
+3-hydroxyhippurate,7.24840708925251e-05
+butyrylcarnitine,7.215278519668864e-05
+LPE(18:0),7.211820274735976e-05
+xylitol,7.157260774876958e-05
+palmitoyl sphingomyelin,7.070316258290434e-05
+SM(39:1),6.982367093240397e-05
+quinate,6.673657465461303e-05
+5-methoxytryptamine,6.658474699412374e-05
+phenylalanylphenylalanine,6.56433378642716e-05
+3-phenylpropionate (hydrocinnamate),6.523420037361553e-05
+TAG58:7-FA18:0,6.492501351436232e-05
+2-deoxytetronic acid,6.358173076923034e-05
+LPE(17:0),6.340404252714332e-05
+maltotriose,6.327664978334927e-05
+TAG60:11-FA22:5,6.292839716531767e-05
+CE(20:5),6.25349711488019e-05
+phosphoethanolamine,6.209210276039853e-05
+CE(18:2),6.192141014215959e-05
+glutamine,6.044239895840314e-05
+aspartate,6.0256895514928685e-05
+TAG47:1-FA14:0,5.842915051305043e-05
+pipecolic acid,5.7121728749345785e-05
+tagatose,5.572289661386786e-05
+2-Hydroxy-4-methylvaleric acid,5.282062696794451e-05
+TAG46:1-FA12:0,5.228461669567491e-05
+2-hydroxybutanoic acid,5.2278646356120166e-05
+glycerol 3-phosphate (G3P),5.141975826949819e-05
+cholesterol,5.028860843966935e-05
+saccharic acid,5.017201834862383e-05
+o-Hydroxybenzoic acid,4.913521868184477e-05
+succinate,4.9011569923983545e-05
+TAG51:1-FA16:0,4.8493160749931444e-05
+PC(44:10),4.755204756490926e-05
+TAG55:1-FA16:0,4.7186837522419905e-05
+PC(18:2/20:1),4.539979438108844e-05
+Isobutyrate,4.523337867081973e-05
+Dyphylline,4.4726848337307796e-05
+DAG(18:2/20:4),4.386816701890525e-05
+pyruvic acid,4.38405911607461e-05
+threonic acid,4.158960563429437e-05
+SDMA,4.140995111241475e-05
+SM(42:2),4.0882934148171596e-05
+TAG60:12-FA22:6,4.055786069959133e-05
+myristic acid,4.023373133505909e-05
+naproxen,4.009807998262255e-05
+SM(42:1),3.918756682447747e-05
+cis-vaccenate (18:1n7),3.89361277601625e-05
+ribitol,3.811144987955375e-05
+LPC(18:0),3.7787589639498356e-05
+TAG44:1-FA16:0,3.706653181527039e-05
+TAG46:3-FA16:1,3.676402888825865e-05
+TAG60:11-FA22:6,3.448323631054327e-05
+TG(52:4),3.4102853813417245e-05
+TG(56:6),3.348981437615771e-05
+TAG46:1-FA18:1,3.332554116601932e-05
+tiglyl carnitine,3.317542575353107e-05
+PC(35:4),3.2829067882132675e-05
+hippuric acid,3.280870134812868e-05
+methanolphosphate,3.1955511288180124e-05
+PC(18:0/20:0),3.1019234071784276e-05
+dimethylglycine,3.061766787427282e-05
+TAG46:1-FA16:1,3.0393457117594653e-05
+p-cresol sulfate,3.0381458545697045e-05
+kynurenine,2.8580099105390836e-05
+1-oleoylglycerophosphoethanolamine,2.7889691067441926e-05
+TAG60:10-FA22:6,2.7446239129261786e-05
+Hydroxyproline,2.726270266711792e-05
+inulobiose,2.675080948617113e-05
+4-hydroxyphenylpyruvate,2.5750100425392105e-05
+DAG(18:1/22:6),2.5566722309205007e-05
+Ribitol,2.5511455812855166e-05
+maltose,2.5251702222631524e-05
+TAG48:2-FA14:1,2.508492291612177e-05
+TAG49:0-FA16:0,2.4530264566886245e-05
+leucine,2.418772185166932e-05
+citrulline,2.3892990864945972e-05
+PC(39:7),2.3597419643106954e-05
+arginine,2.314761595361851e-05
+PC(37:6),2.3143005258090565e-05
+azelaic acid,2.2726202430306928e-05
+TAG51:0-FA18:0,2.262844778250646e-05
+glycerol-alpha-phosphate,2.2584100566429458e-05
+citric acid,2.1459654654835044e-05
+TAG40:0-FA12:0,2.1186788379200376e-05
+stearoyl sphingomyelin,2.073694777777432e-05
+"1,5-anhydroglucitol",2.0609683474816072e-05
+TAG50:1-FA18:0,2.0175382608384976e-05
+PE(P-18:0/20:5),2.0005819874872795e-05
+methylhexadecanoic acid,1.92664478378759e-05
+PC-O(42:5),1.9162093894259484e-05
+CE(22:5),1.9036519036519373e-05
+Cit,1.81687129680533e-05
+Val,1.798212337175214e-05
+Serotonin,1.794891996411991e-05
+PC(40:5),1.783866709479424e-05
+arachidic acid,1.7443526543718168e-05
+Palmitelaidic acid,1.7017825714279815e-05
+linolenic acid,1.546512536124314e-05
+indole-3-lactate,1.3819503465240888e-05
+TAG49:1-FA15:0,1.176618966174923e-05
+lauric acid,1.0820947140286939e-05
+PC(36:5),8.719274935940126e-06
+TAG58:8-FA18:1,8.587328671641125e-06
+PE(P-18:1/20:5),8.344196542071136e-06
+1-methylxanthine,5.807636844912929e-06
+5-Hydroxyindoleacetate,5.777394152137577e-06
+PC(34:4),5.104572846508312e-06
+pseudouridine,5.047618048708226e-06
+TAG56:8-FA18:2,2.595708867490866e-06
+trimethylamine N-oxide,0.0
+α-Glucose,0.0
+10-Hydroxydecanoic acid,0.0
+π-Methylhistidine,0.0
+N-acetylglycine NIST,0.0
+N-acetylmethionine,0.0
+N-acetylserine,0.0
+LPE(18:1),0.0
+γ-Butyrobetaine,0.0
+3-dehydrocarnitine,0.0
+3-hydroxy-2-ethylpropionate,0.0
+3-hydroxybutanoic acid,0.0
+3-hydroxybutyrate (BHBA),0.0
+saccharin,0.0
+salicylate,0.0
+uridine,0.0
+urobilinogen,0.0
+β-Glucose,0.0
+taurolithocholate 3-sulfate,0.0
+S-Methylcysteine,0.0
+S-Sulfocysteine,0.0
+S-methylcysteine,0.0
+SM(30:1),0.0
+SM(33:1),0.0
+SM(34:1),0.0
+SM(35:1),0.0
+SM(37:1),0.0
+SM(38:1),0.0
+SM(38:2),0.0
+SM(39:2),0.0
+SM(40:1),0.0
+HWESASXX,0.0
+Heptanoic acid,0.0
+N-acetyl-beta-alanine,0.0
+N-acetylglutamate,0.0
+2-deoxyerythritol,0.0
+2-hydroxy-3-methylvalerate,0.0
+2-hydroxyacetaminophen sulfate,0.0
+Hexanoic acid,0.0
+Ile-Val,0.0
+Isethionic acid,0.0
+Isobutyric acid,0.0
+Pseudouridine,0.0
+Quinic acid,0.0
+Ribulose 5-phosphate,0.0
+Isobutyrylcarnitine,0.0
+L-Phenylalanine,0.0
+L-Threonine,0.0
+LCER(24:1),0.0
+13-methylmyristic acid,0.0
+15-methylpalmitate (isobar with 2-methylpalmitate),0.0
+2-hydroxyhippuric acid,0.0
+Stachydrine,0.0
+TAG42:1-FA16:0,0.0
+TAG44:0-FA14:0,0.0
+TAG44:2-FA18:1,0.0
+TAG45:0-FA16:0,0.0
+TAG45:1-FA18:1,0.0
+TAG46:0-FA16:0,0.0
+SM(40:2),0.0
+SM(41:1),0.0
+SM(41:2),0.0
+SM(42:3),0.0
+SM(43:1),0.0
+SM(44:1),0.0
+2-arachidonoylglycerophosphocholine,0.0
+PC(36:1),0.0
+PC(36:2),0.0
+PC(36:3),0.0
+PC(36:4),0.0
+PC(36:6),0.0
+PC(37:1),0.0
+PC(37:2),0.0
+PC(37:3),0.0
+PC(37:4),0.0
+PC(37:5),0.0
+PC(38:2),0.0
+PC(38:3),0.0
+TAG47:0-FA14:0,0.0
+2-hydroxybutyrate (AHB),0.0
+2-hydroxyglutaric acid,0.0
+TAG47:2-FA16:1,0.0
+TAG48:0-FA16:0,0.0
+TAG48:0-FA18:0,0.0
+Glu-Gly,0.0
+Gluconic acid,0.0
+Gly-Glu,0.0
+Gly-Thr,0.0
+Glycerol 3-phosphate,0.0
+TAG46:0-FA18:0,0.0
+TAG46:1-FA14:1,0.0
+TAG46:2-FA12:0,0.0
+TAG46:2-FA14:1,0.0
+TAG46:2-FA18:1,0.0
+TAG46:2-FA18:2,0.0
+PC(40:9),0.0
+PC(41:4),0.0
+PC(40:3),0.0
+2-aminobutyrate,0.0
+TAG48:1-FA16:0,0.0
+TAG48:1-FA16:1,0.0
+TAG48:1-FA18:1,0.0
+TAG48:2-FA12:0,0.0
+TAG48:2-FA14:0,0.0
+TAG48:2-FA16:0,0.0
+TAG48:2-FA16:1,0.0
+TAG49:0-FA15:0,0.0
+TAG49:0-FA17:0,0.0
+TAG47:0-FA15:0,0.0
+TAG47:0-FA16:0,0.0
+TAG47:0-FA17:0,0.0
+TAG47:1-FA15:0,0.0
+TAG47:1-FA17:0,0.0
+TAG50:2-FA20:2,0.0
+TAG50:3-FA20:3,0.0
+2-Oxoisovaleric acid,0.0
+"2,3-dihydroxybutanoic acid NIST",0.0
+2-Aminoadipic acid,0.0
+2-Hydroxyvaleric acid,0.0
+Phe-Gln,0.0
+PC-O(40:4),0.0
+PC-O(40:5),0.0
+PC(38:6),0.0
+PC(39:3),0.0
+PC(39:4),0.0
+PC(39:5),0.0
+PC(39:6),0.0
+PC(40:1),0.0
+PC(40:2),0.0
+TAG51:0-FA16:0,0.0
+TAG51:0-FA17:0,0.0
+TAG52:2-FA20:2,0.0
+TAG52:3-FA20:3,0.0
+TAG52:4-FA20:3,0.0
+TAG52:4-FA20:4,0.0
+TAG52:7-FA16:0,0.0
+TAG54:5-FA18:2,0.0
+TAG49:1-FA16:1,0.0
+TAG49:1-FA17:0,0.0
+TAG49:2-FA14:0,0.0
+TAG49:2-FA16:1,0.0
+TAG50:1-FA16:0,0.0
+TAG50:1-FA16:1,0.0
+TAG50:1-FA18:1,0.0
+TAG56:7-FA18:0,0.0
+TAG56:7-FA22:6,0.0
+TAG56:8-FA16:0,0.0
+TAG56:8-FA20:5,0.0
+TAG56:9-FA18:3,0.0
+TAG56:9-FA20:5,0.0
+TAG56:9-FA22:6,0.0
+TAG58:10-FA22:5,0.0
+TAG58:8-FA18:2,0.0
+FFA(18:3),0.0
+FFA(22:6),0.0
+GABA,0.0
+TAG50:4-FA20:4,0.0
+TAG50:5-FA20:5,0.0
+TG(52:7),0.0
+TG(53:3),0.0
+TG(53:4),0.0
+TG(53:5),0.0
+TAG58:8-FA22:5,0.0
+TAG58:8-FA22:6,0.0
+TAG58:9-FA22:5,0.0
+TG(44:1),0.0
+TG(44:2),0.0
+TG(46:2),0.0
+TG(48:3),0.0
+TG(49:1),0.0
+TG(49:2),0.0
+TG(50:1),0.0
+TAG56:6-FA18:0,0.0
+TAG56:6-FA22:6,0.0
+PC(34:5),0.0
+PC(35:1),0.0
+PC(35:2),0.0
+PC(35:3),0.0
+DG(42:0),0.0
+Decanoic acid,0.0
+TG(50:3),0.0
+TG(50:4),0.0
+TG(51:1),0.0
+TG(51:2),0.0
+TG(51:3),0.0
+TG(51:4),0.0
+TG(52:2),0.0
+TG(52:3),0.0
+TG(52:5),0.0
+TG(52:6),0.0
+DG(34:3),0.0
+DG(36:2),0.0
+DG(36:3),0.0
+DG(36:4),0.0
+PC(38:4),0.0
+PC(38:5),0.0
+PC(32:1),0.0
+PC(32:2),0.0
+PC(32:3),0.0
+PC(32:4),0.0
+PC(33:0),0.0
+PC(33:3),0.0
+PC(33:4),0.0
+PC(34:1),0.0
+PC(34:3),0.0
+DAG(16:0/22:6),0.0
+DAG(18:1/20:3),0.0
+DAG(18:2/18:3),0.0
+DAG(18:2/20:5),0.0
+TG(56:8),0.0
+Terephthalic acid,0.0
+Threonic acid,0.0
+CE(22:6),0.0
+TG(54:2),0.0
+TG(54:3),0.0
+TG(54:5),0.0
+TG(54:6),0.0
+TG(55:6),0.0
+TG(56:7),0.0
+DG(32:1),0.0
+DG(32:2),0.0
+Pantothenic acid,0.0
+Cer(41:1),0.0
+Cer(42:1),0.0
+Cer(42:2),0.0
+Cer(43:1),0.0
+acetophenone NIST,0.0
+aconitic acid,0.0
+adenosine,0.0
+adenosine-5-phosphate,0.0
+adipate,0.0
+adipic acid,0.0
+adrenate (22:4n6),0.0
+Cysteine glutathione disulfide,0.0
+Cytidine,0.0
+benzoate,0.0
+benzoic acid,0.0
+benzylalcohol,0.0
+Cer(40:1),0.0
+PC(40:4),0.0
+PC(40:6),0.0
+PC(40:7),0.0
+PC(40:8),0.0
+Phosphoric acid,0.0
+Pipecolic acid,0.0
+PE(O-18:0/22:6),0.0
+PE(P-16:0/20:5),0.0
+PE(P-18:0/22:6),0.0
+PE(P-18:1/22:6),0.0
+CE(16:1),0.0
+CE(17:0),0.0
+CE(17:1),0.0
+CE(18:1),0.0
+CE(18:3),0.0
+CE(20:4),0.0
+alpha ketoglutaric acid,0.0
+alpha-hydroxyisovalerate,0.0
+alpha-ketoglutarate,0.0
+alpha-tocopherol,0.0
+aminomalonic acid,0.0
+andro steroid monosulfate 2,0.0
+"1,5-anhydroglucitol (1,5-AG)",0.0
+arachidonate (20:4n6),0.0
+arachidonic acid,0.0
+behenic acid,0.0
+caprylic acid,0.0
+carbamazepine,0.0
+"carbamazepine 10,11-epoxide",0.0
+carbamazepine glucuronide,0.0
+2-hydroxystearate,0.0
+2-hydroxyvaleric acid,0.0
+2-ketoisocaproic acid,0.0
+2-linoleoylglycerophosphocholine,0.0
+2-methylbutyroylcarnitine,0.0
+2-oleoylglycerophosphocholine,0.0
+beta-hydroxypyruvate,0.0
+betaine,0.0
+"bilirubin (E,E)",0.0
+Bilirubin,0.0
+Butyrylcarnitine,0.0
+CE(16:0),0.0
+dihydro-3-coumaric acid,0.0
+dimethylarginine (SDMA + ADMA),0.0
+2-stearoylglycerophosphocholine,0.0
+21-hydroxypregnenolone disulfate,0.0
+3-(4-hydroxyphenyl)lactate,0.0
+celecoxib,0.0
+chiro-inositol,0.0
+cholate,0.0
+cinnamoylglycine,0.0
+cis-Aconitic acid,0.0
+codeine,0.0
+cortisol,0.0
+"bradykinin, des-arg(9)",0.0
+campesterol,0.0
+capric acid,0.0
+caproate (6:0),0.0
+fucose,0.0
+fumarate,0.0
+gabapentin,0.0
+Ascorbate 2-sulfate,0.0
+2-hydroxyisobutyrate,0.0
+2-hydroxypalmitate,0.0
+cotinine,0.0
+creatine,0.0
+cyclo(leu-pro),0.0
+cysteine-glycine,0.0
+cystine,0.0
+dehydroisoandrosterone sulfate (DHEA-S),0.0
+deoxycarnitine,0.0
+deoxycholate,0.0
+dihomo-linoleate (20:2n6),0.0
+dihomo-linolenate (20:3n3 or n6),0.0
+"5alpha-pregnan-3beta,20alpha-diol disulfate",0.0
+6-Hydroxyhexanoic acid,0.0
+7-ketodeoxycholate,0.0
+diphenhydramine,0.0
+docosadienoate (22:2n6),0.0
+docosahexaenoate (DHA; 22:6n3),0.0
+docosapentaenoate (n3 DPA; 22:5n3),0.0
+docosapentaenoate (n6 DPA; 22:5n6),0.0
+doxycycline,0.0
+eicosapentaenoate (EPA; 20:5n3),0.0
+eicosenoate (20:1n9 or 11),0.0
+epiandrosterone sulfate,0.0
+erythritol,0.0
+erythronate,0.0
+erythrose,0.0
+escitalopram,0.0
+glycochenodeoxycholate,0.0
+glycocholate,0.0
+glycocholenate sulfate,0.0
+gamma-CEHC,0.0
+gamma-glutamylisoleucine,0.0
+gamma-glutamylleucine,0.0
+gamma-glutamylmethionine,0.0
+gamma-glutamylphenylalanine,0.0
+gamma-glutamyltryptophan,0.0
+gamma-glutamyltyrosine,0.0
+gamma-glutamylvaline,0.0
+gamma-tocopherol,0.0
+gluconate,0.0
+gluconic acid,0.0
+glucuronic acid,0.0
+"5alpha-pregnan-3alpha,20beta-diol disulfate 1",0.0
+LPC(17:0),0.0
+LPC(17:1),0.0
+LPC(20:1),0.0
+homostachydrine,0.0
+hydrochlorothiazide,0.0
+hydroxylamine,0.0
+hydroxypioglitazone,0.0
+hypoxanthine,0.0
+ibuprofen,0.0
+7-methylguanine,0.0
+7-methylxanthine,0.0
+ADMA,0.0
+glutamate,0.0
+glutaric acid,0.0
+glutaroyl carnitine,0.0
+glyceric acid,0.0
+glycolithocholate sulfate,0.0
+heptadecanoic acid NIST,0.0
+hexadecanedioate,0.0
+hexanoylcarnitine,0.0
+hippurate,0.0
+Pelargonic acid,0.0
+Perillic acid,0.0
+10-heptadecenoate (17:1n7),0.0
+10-nonadecenoate (19:1n9),0.0
+10-undecenoate (11:1n1),0.0
+PC-O(40:6),0.0
+PE(18:0/20:5),0.0
+PE(O-16:0/20:4),0.0
+LPC(15:0),0.0
+LPC(16:0),0.0
+LPC(16:1),0.0
+kynurenate,0.0
+PC(35:5),0.0
+Met-SO,0.0
+N-acetylthreonine,0.0
+N-formylmethionine,0.0
+N-methylalanine,0.0
+N1-Methyl-2-pyridone-5-carboxamide,0.0
+NAM,0.0
+O-Acetylcarnitine,0.0
+Octanoic acid,0.0
+Octanoylcarnitine,0.0
+Orn,0.0
+PC(18:2/22:6),0.0
+lactamide,0.0
+glycolate (hydroxyacetate),0.0
+glycolic acid,0.0
+linoleic acid,0.0
+linolenate [alpha or gamma; (18:3n3 or 6)],0.0
+1-Methylhistamine,0.0
+loratadine,0.0
+malate,0.0
+malic acid,0.0
+indole-3-acetate,0.0
+1-eicosadienoylglycerophosphocholine,0.0
+indoleacetate,0.0
+indolelactate,0.0
+indolepropionate,0.0
+isobutyrylcarnitine,0.0
+isocitric acid,0.0
+isothreonic acid,0.0
+isovalerate,0.0
+isovalerylcarnitine,0.0
+meprobamate,0.0
+"4-androsten-3beta,17beta-diol disulfate 1",0.0
+"4-androsten-3beta,17beta-diol disulfate 2",0.0
+4-hydroxyproline,0.0
+4-vinylphenol sulfate,0.0
+1-heptadecanoylglycerophosphocholine,0.0
+5-Oxoproline,0.0
+5-hydroxynorvaline NIST,0.0
+lathosterol,0.0
+laurate (12:0),0.0
+1-linoleoylglycerophosphocholine,0.0
+laurylcarnitine,0.0
+leucylphenylalanine,0.0
+lidocaine,0.0
+lignoceric acid,0.0
+linoleate (18:2n6),0.0
+mannitol,0.0
+LPC(20:3),0.0
+LPC(20:4),0.0
+LPC(22:5),0.0
+PC(41:5),0.0
+PC(42:10),0.0
+PC(42:2),0.0
+PC(42:6),0.0
+PC(42:7),0.0
+PC-O(30:0),0.0
+PC-O(32:1),0.0
+PC-O(34:2),0.0
+PC-O(34:3),0.0
+PC-O(36:5),0.0
+PC-O(38:4),0.0
+margarate (17:0),0.0
+oxoproline,0.0
+p-acetamidophenylglucuronide,0.0
+palmitate (16:0),0.0
+palmitic acid,0.0
+palmitoleate (16:1n7),0.0
+parabanic acid NIST,0.0
+5-methyluridine (ribothymidine),0.0
+methionine sulfoxide,0.0
+methylglutaroylcarnitine,0.0
+metoprolol,0.0
+mirtazapine,0.0
+myo-inositol,0.0
+myristate (14:0),0.0
+myristoleate (14:1n5),0.0
+nicotinic acid,0.0
+octadecanedioate,0.0
+pentadecanoate (15:0),0.0
+phenylacetate,0.0
+phenylacetylglutamine,0.0
+3-hydroxydecanoate,0.0
+3-hydroxyisobutyrate,0.0
+3-hydroxyoctanoate,0.0
+3-indoxyl sulfate,0.0
+3-methoxytyrosine,0.0
+3-methylxanthine,0.0
+3-phosphoglycerate,0.0
+4-L-Hydroxyproline,0.0
+oleate (18:1n9),0.0
+oleic acid,0.0
+oleoylcarnitine,0.0
+omeprazole,0.0
+oxalic acid,0.0
+4-Methyl-2-oxovaleric acid,0.0
+4-acetamidobutanoate,0.0
+phenylethylamine,0.0
+phosphate,0.0
+pioglitazone,0.0
+pipecolate,0.0
+piperine,0.0
+pregn steroid monosulfate,0.0
+pregnen-diol disulfate,0.0
+propionylcarnitine,0.0
+pseudo uridine,0.0
+thymol sulfate,0.0
+pyridoxal,0.0
+pyroglutamine,0.0
+paracetamol,0.0
+pelargonic acid,0.0
+theobromine,0.0
+undecanedioate,0.0
+urate,0.0
+urea,0.0
+uric acid,0.0
+stearate (18:0),0.0
+stearic acid,0.0
+quetiapine,0.0
+quinic acid,0.0
+quinine,0.0
+ranitidine,0.0
+rhamnose,0.0
+riboflavin (Vitamin B2),0.0
+3-(cystein-S-yl)acetaminophen,0.0
+3-Aminoisobutyric acid,0.0
+3-Methylhistidine,0.0
+N-acetylglycine,0.0
+1-monopalmitin,0.0
+tryptophan betaine,0.0
+PC-O(38:5),0.0
+PC-O(38:6),0.0
+Maltose,0.0
+valerate,0.0
+xanthine,0.0
+xanthosine,0.0
+xylose,0.0
+1-oleoylglycerophosphocholine,0.0
+1-palmitoleoylglycerophosphocholine,0.0
+1-stearoylglycerol (1-monostearin),0.0
+1-stearoylglycerophosphoethanolamine,0.0
+1-stearoylglycerophosphoinositol,0.0
+β-Ala,0.0
+tocopherol alpha,0.0
+Mucic acid,0.0
+Myristic acid,0.0
+"N,N-Dimethylglycine",0.0
+N-(2-furoyl)glycine,0.0
+N-Acetylalanine,0.0
+salicylic acid,0.0
+scyllo-inositol,0.0
+sertraline,0.0
+shikimic acid,0.0
+sorbitol,0.0
+PC(30:1),0.0
+PC(31:0),0.0
+succinylcarnitine,0.0
+taurocholenate sulfate,0.0
+"1,2-propanediol",0.0
