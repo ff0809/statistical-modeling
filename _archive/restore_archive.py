@@ -41,5 +41,10 @@ for index,bundle in enumerate(metadata['original_git_history'],1):
  if digest(target)!=bundle['sha256']:raise RuntimeError('History bundle mismatch')
  subprocess.run(['git','bundle','verify',str(target)],cwd=str(ROOT),check=True)
 for record in json.loads((META/'manifest.json').read_text(encoding='utf-8-sig')):
+ if record.get('storage')=='external':
+  original=Path(record['source_path'])
+  if not original.is_file():print('External dataset location:',record['source_path']);continue
+  if digest(original)!=record['sha256']:raise RuntimeError('External dataset mismatch')
+  continue
  if digest(safe(record['path']))!=record['sha256']:raise RuntimeError('File mismatch: '+record['path'])
-print('All original content and Git history verified.')
+print('GitHub content and Git history verified. External datasets use the separate E-drive archive.')
